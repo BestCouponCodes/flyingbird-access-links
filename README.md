@@ -103,11 +103,11 @@ A：搭配 Clash 基本无门槛
 
 如果你在找 **flyingbird飞鸟机场官网地址** 的同时，也可以参考以下稳定入口与替代方案：
 
-👉 [WgetCloud 官网入口（2026 最新稳定节点推荐）](https://github.com/BestCouponCodes/wgetcloud-access-links)  
+👉 [WgetCloud 官网入口（2026 最新稳定节点推荐)](https://bestcouponcodes.github.io/wgetcloud-access-links/)
 
-👉 [SSRDOG 官网入口（高性价比节点服务推荐）](https://github.com/BestCouponCodes/SSRDOG-access-links)  
+👉 [SSRDOG 官网入口（高性价比节点服务推荐）](https://github.com/BestCouponCodes/SSRDOG-access-links)
 
-👉 [中国网络访问指南（VPN / 节点完整整理 2026）](https://github.com/BestCouponCodes/china-internet-access-guide)  
+👉 [中国网络访问指南（VPN / 节点完整整理 2026）](https://github.com/BestCouponCodes/china-internet-access-guide)
 
 📌 提示：  
 建议至少收藏 2～3 个入口，避免单一服务不稳定或无法使用。
